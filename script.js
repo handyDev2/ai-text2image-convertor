@@ -1,4 +1,4 @@
-const oaiKey = "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";
+const oaiKey = "YOUR OPENAI KEY HERE";
 
 const input = document.querySelector("#generate-input");
 const button = document.querySelector("#generate-btn");
